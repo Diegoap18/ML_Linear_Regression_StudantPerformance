@@ -1,4 +1,4 @@
-# ML_Linear_Regression_StudantPerformance
+# Machine Learning - Linear Regression Studant Performace
 
 This repository is to share a Machine Learning Linear Regression with Real Application <br >
 you will be able to predict any grade studant using input data and getting the result <br >
